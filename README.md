@@ -1,5 +1,8 @@
 # IDLE Enhancement Suite: Highlighting and Navigation Tools
 
+## Course Context
+This project was developed as part of the **Working with Large Code Bases** course at UC San Diego. The course focuses on equipping students with the skills necessary to effectively navigate, understand, and contribute to large codebases, a crucial competency for software engineers in the industry. Through this project, we applied these principles by enhancing the IDLE code editor with advanced highlighting and navigation features.
+
 ## Team Members
 - **Chenfei Yan**  
 - **Jacky Hu**  
@@ -75,5 +78,4 @@ To run this project locally, follow these steps:
    - Use the enhanced highlighting and navigation tools directly within the IDLE editor.
 
 ## Conclusion
-This Python project enhances the IDLE code editor by introducing a robust line marking feature, providing users with a more efficient way to navigate and manage large codebases. Through careful design, testing, and implementation, we have created a tool that significantly improves the user experience in IDLE.
-
+This Python project, developed as part of the **Working with Large Code Bases** course, enhances the IDLE code editor by introducing a robust line marking feature. It provides users with a more efficient way to navigate and manage large codebases, which is crucial for software engineering roles in industry. Through careful design, testing, and implementation, we have created a tool that significantly improves the user experience in IDLE.
